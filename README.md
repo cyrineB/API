@@ -26,4 +26,4 @@ build a REST API that exposes methods to interact with a cache
 - Add an endpoint that removes a given key from the cache
   - DELETE : URL: http://localhost:3000/key1
 - Add an endpoint that removes all keys from the cache
-  - DELETE : URL: http://localhost:3000//Cache/deleteAll
+  - DELETE : URL: http://localhost:3000/Cache/deleteAll
